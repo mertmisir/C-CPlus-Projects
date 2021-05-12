@@ -1,0 +1,3 @@
+22/10/2018 14:11;sjacob@mail.co.uk;Hi;How are you?;1
+22/10/2018 14:18;brichard@mail.com;Meeting;Hi there, Will we meet at 16:00?;2
+23/10/2018 11:39;cthomas@xyz.com;Book;Can I borrow your book for tomorrow?;3

@@ -1,0 +1,3 @@
+22/10/2018 15:55;cdaniel@mail.com;Notes; Can you send me your lecture notes?;1
+23/10/2018 16:45;jennifer@mail.co.uk;Hello; Hi, how are you?;2
+23/10/2018 16:45;cthomas@xyz.com;Book; Yes you can;3
